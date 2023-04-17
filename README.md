@@ -1,4 +1,4 @@
-# vuejs-quran
+# Al-Quran online with vue js, api kemenag.go.id
 
 ## Project setup
 ```
