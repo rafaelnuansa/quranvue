@@ -13,6 +13,7 @@
     </div>
 </template>
 
+<!-- Test  -->
 <script>
 import NavbarVue from './components/Navbar.vue'
 import ScrollToTopVue from './components/ScrollToTop.vue';
